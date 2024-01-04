@@ -1,0 +1,17 @@
+pymongo
+pymongo[srv]
+dnspython
+pandas
+numpy
+ensure
+pytest
+
+
+pytest
+tox
+black
+flake8
+mypy
+
+# local package
+-e .
